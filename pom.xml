@@ -60,7 +60,11 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
+<<<<<<< HEAD
                             <mainClass>com.example.lab7/com.example.lab7.Invoice</mainClass>
+=======
+                            <mainClass>com.example.lab7/com.example.Invoice</mainClass>
+>>>>>>> a99f39d (Invoice)
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

@@ -6,11 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="Lab7" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Lab7" target="17" />
+=======
+        <module name="Invoice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Invoice" target="17" />
+>>>>>>> a99f39d (Invoice)
     </bytecodeTargetLevel>
   </component>
 </project>
